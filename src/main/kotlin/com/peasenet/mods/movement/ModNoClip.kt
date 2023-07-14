@@ -19,9 +19,6 @@
  */
 package com.peasenet.mods.movement
 
-import com.peasenet.mods.Mod
-import com.peasenet.mods.Type
-
 /**
  * @author gt3ch1
  * @version 03-16-2023
